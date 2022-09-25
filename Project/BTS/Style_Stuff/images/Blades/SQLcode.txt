@@ -1,0 +1,6 @@
+INSERT INTO product VALUES ("1674251", "Table blade Tia20 grinder", 640, 2, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Blades\blade1.png", "Blades");
+INSERT INTO product VALUES ("1676253", "Ridege GB grinder", 750, 4, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Blades\blade2.png", "Blades");
+INSERT INTO product VALUES ("1672266", "Saner 15GIG grinder", 2300, 3, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Blades\blade3.png", "Blades");
+INSERT INTO product VALUES ("1659287", "Friz12 saw", 950, 6, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Blades\blade4.png", "Blades");
+INSERT INTO product VALUES ("1677201", "Wood saw G530", 1100, 2, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Blades\blade5.png", "Blades");
+INSERT INTO product VALUES ("1679750", "Terminator Saw Multitasker", 5600, 1, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Blades\blade6.png", "Blades");

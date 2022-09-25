@@ -1,0 +1,6 @@
+INSERT INTO product VALUES ("4674425", "Makita HR2470", 1030, 13, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Grinders\drill1.png", "Grinders");
+INSERT INTO product VALUES ("4672352", "Bosch GBH 2-26DRE", 750, 6, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Grinders\drill2.png", "Grinders");
+INSERT INTO product VALUES ("4672497", "DeWALT DCH133M1", 370, 3, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Grinders\drill3.png", "Grinders");
+INSERT INTO product VALUES ("4659213", "Einhell Herocco", 3000, 2, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Grinders\drill4.png", "Grinders");
+INSERT INTO product VALUES ("4677234", "Bosch GBH 2-28 F", 970, 7, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Grinders\drill5.png", "Grinders");
+INSERT INTO product VALUES ("4679751", " Einhell TE-RH 26/1 4F", 490, 4, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Grinders\drill6.png", "Grinders");

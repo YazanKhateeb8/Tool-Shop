@@ -1,0 +1,6 @@
+INSERT INTO product VALUES ("0675451", "Big Sander V2G5", 530, 12, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Sanders\sander_big.png", "Sanders");
+INSERT INTO product VALUES ("0679257", "Small sander 0TY2UZ", 240, 7, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Sanders\sander_small_bush.png", "Sanders");
+INSERT INTO product VALUES ("0679266", "Flex sander V2", 210, 2, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Sanders\sander_small_flex.png", "Sanders");
+INSERT INTO product VALUES ("0679287", "G17 Sander", 300, 6, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Sanders\sander_small_flex2.png", "Sanders");
+INSERT INTO product VALUES ("0679201", "G17 Sander", 265, 1, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Sanders\sander_small_makita.png", "Sanders");
+INSERT INTO product VALUES ("0679224", "PP95Neo Sander lite", 185, 14, "C:\xampp\htdocs\Project\BTS\Style_Stuff\images\Sanders\sander_red.png", "Sanders");
